@@ -296,6 +296,18 @@ h1, h2, h3, h4, h5,
       box-shadow: -1px 9px 40px -12px rgb(0,0,0,0.75);
 
     }
+    
+    .center{
+      display: block;
+      margin-left: 45%;
+      margin-right: 55%;
+      width: 50%;
+    
+    }
+
+     spa{
+      text-align: center;
+    }
 
 .site-section {
   padding: 2.5em 0; }
